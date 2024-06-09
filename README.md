@@ -1,4 +1,4 @@
-Sure, here is a more polished version of the instructions translated into English for your GitHub page:
+
 
 ---
 
