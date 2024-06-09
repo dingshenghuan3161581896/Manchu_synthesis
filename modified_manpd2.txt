@@ -1,0 +1,782 @@
+<eps>	sil
+<unk>	spn
+[bracketed]	spn
+[laughter]	spn
+a	a
+abdaha	a p t ɤ k ɤ
+abka	a p kʰ ɤ
+abkai	a p kʰ ɤ
+abome	ɔ v u m
+absi	æ z i
+acabume	a ʂ p u m
+acahakv	a ʈʂʰ ɤ ɢ ɯ
+acambi	a tʃ ɤ m i e
+acanarakv	a ʂ n a ɢ ɯ
+adali	m æ t ɤ l i
+adarame	a t a ɾ a m ɤ
+adu	a t u
+aga	a k ɤ
+agame	a k ɤ m
+age	a k ɤ
+ai	a i
+aiba	æ p a
+aibide	j a p ɤ t ɤ
+aifini	æ v a n t ɤ
+ainahabi	æ n ɤ ʁ p i
+ainambi	a i a ɾ a m i e
+ainambini	a i n ɤ m p i n i
+ainara	æ n a ɾ
+ainci	æ n tɕʰ i
+ainu	a n ɤ
+aise	æ z ɤ
+aisilara	æ z i l ɤ
+aituha	æ tʰ i ʁ ɤ
+ajige	æ tɕ i
+akjaha	a kʰ ʐ u ʁ ɤ
+akjan	a kʰ ʐ u
+akv	ɔ ɢ ɯ
+alambi	a l ɤ m p i
+alara	a l a ɾ ɤ
+alha	j i l ʁ a
+alime	æ l i m
+alin	æ l i n
+ama	a m a
+amagam	a m ɤ tɕʰ ɤ n ɤ
+amagambi	a m ɤ tɕʰ ɤ n a m i e
+amala	a m ɤ l ɤ
+amargi	a m ɤ ɾ k i
+amargi	a m a ɾ k i
+amasi	a m ɤ ʂ
+amba	a m p a
+ambakan	a m p a kʰ
+amgaki	a m k ɤ kʰ i
+amgambi	a m k ɤ m i e
+amgara	a m tɕʰ ɤ ɾ ɤ
+amji	a m tɕ i
+amuran	a m u ɾ a n
+an	a n
+anenygi	v e i n iŋ
+anggala	aŋ ŋ ɤ l ɤ
+aniya	æ n i
+aniyadari	æ n i t i e ɾ i e
+aniyade	æ n i t e
+antaha	a n tʰ ɤ ʁ
+antaharara	m a ŋ z ɤ ɾ ɤ
+ara	a ɾ a
+araci	a ɾ a tɕʰ i
+arahangge	a ɾ a ʁ n iŋ ɤ
+arambi	a ɾ a m i e
+arame	a ɾ ɤ m ɤ
+arara	a ɾ a ɾ
+arki	a ɾ kʰ ɤ
+arsuka	a ʂ t u ʁ ɤ
+arsun	a ʂ t u n
+asihan	a ʂ k a n
+axxame	a ʂ ɤ m ɤ
+aya	a ɾ a
+bade	p a t ɤ
+baha	p a ʁ a
+bahabi	p a x a p i
+bahafi	p a ʁ ɤ p e
+bahambio	p a ʁ ɤ m n o
+bahame	p a ʁ ɤ m
+bahanambi	p a ʁ ɤ n ɤ m i e
+bahanambio	p a ʁ ɤ m n o
+bahanarakv	p æ p u ɢ ɯ
+baiburakv	p æ p u ɢ ɯ
+baicame	p æ tʃ a m
+baili	p a i l i
+baita	p a i tʰ ɤ
+baitakv	p æ tʰ ɤ ɢ ɯ
+baitalame	p æ t ɤ l ɤ m ɤ
+baitalarangge	p æ t ɤ l ɤ n iŋ ŋ ɤ
+baniha	p a n i x a
+banjiha	p a n tɕ i x
+banjihangge	p a n tɕ i x n iŋ ŋ ɤ
+bargiyaki	p æ ɾ k i kʰ i
+bargiyara	p æ ɾ k i ɾ i e
+baturu	p a t u ɾ u
+be	p ɤ
+bederebume	p ɤ t ɤ ɾ p u m
+bedereki	p ɤ t ɤ ɾ ɤ kʰ i
+bederembio	p ɤ t ɤ ɾ ɤ m n o
+bedereme	p ɤ t ɤ ɾ ɤ m
+beki	p ɤ kʰ i
+bele	p ɤ l ɤ
+belgeme	p ɤ l ɢ ɤ m
+belheme	p ɤ l ʁ ɤ m
+benehe	p ɤ n ɤ k ɤ
+bengsen	p ɤ n s
+besergen	p ɤ s ɤ ɾ k ɤ n
+bethe	p ɤ tʰ k ɤ
+beye	p ɤ j i
+bi	p i
+biha	p i a
+bihe	p i x ɤ
+bihede	p i x ɤ t ɤ
+bihengge	p i x ɤ n iŋ ŋ ɤ
+bimbi	p i m i e
+bio	p i n o
+birai	p i ɾ a
+bisire	p i ç i ɾ
+bithe	p i tʰ kʰ ɤ
+biya	p i j a
+biyai	p i a
+biyai	p i j a
+boco	p o k
+boconggo	p o tʃ oŋ ŋ ɤ
+bolgo	p o l k o
+bolori	p o l o ɾ i
+boo	p o
+booci	p o tɕʰ i
+boode	p o t ɤ
+booha	p o x a
+booi	p ɔ i
+booningge	p ɔ n iŋ
+boso	p o z o
+buci	p u tɕʰ i
+buda	p u t a
+budai	p u t a
+bufi	p u e
+bujiki	p u ʐ u kʰ i
+buki	p u kʰ i
+buleku	p u l ɤ kʰ u
+cai	ʈʂʰ æ
+calabumbi	tʃ a l ɤ p u m i e
+calaburakv	tʃ a l ɤ p u ɢ ɯ
+cargi	ʈʂʰ a ɾ k i
+ci	tɕʰ i
+cicigar	tɕʰ i tɕʰ i tɕʰ a ɾ
+cihai	tɕʰ i a i
+cihalambi	tɕʰ i ʁ a l ɤ m i e
+cihalambio	tɕʰ i ʁ a l ɤ m i e
+cihalarakv	tɕʰ i ʁ a l a ɢ ɯ
+cimari	ʈʂʰ ɯ m a tɕʰ ɤ
+cirku	tɕʰ i ɾ kʰ u
+coko	tʃ u k ɤ
+colaci	ʈʂʰ ɔ l ɤ tɕʰ i
+coro	ʈʂʰ ɔ ɾ o
+dabala	t a p a l ɤ
+dabali	t a p a l ɤ
+daci	t a tɕʰ i
+daha	t a ʁ ɤ
+dahangge	t a x n iŋ ŋ ɤ
+daifu	t æ f u
+daifuran	t æ f u ɾ a n
+dambaku	t a m k ɤ
+damu	t a m u
+daruhai	t a ɾ u x æ
+dasabume	t a s p u m
+dasatame	t a tɕ ɤ m
+de	t ɤ
+debtelin	t ɤ p tʰ ɤ n
+dedure	t u t u ɾ ɤ
+den	t ɤ n
+dere	t ɤ ɾ ɤ
+derei	t ɤ ɾ e
+deretu	t ɤ ɾ ɤ tʰ u
+dergi	tɕ i ɾ k i
+deri	t e ɾ e
+deribuhe	t ɤ ɾ p u ʁ ɤ
+deribume	t ɤ ɾ p u m ɤ
+diyanxi	t i a n ʂ ɤ
+dobori	t ɔ p ɔ ɾ i
+dolo	t o l o
+donjifi	t o n tɕ i p i e
+donjihade	t o n tɕ i x t ɤ
+donjihade	t u n tɕ i x a t ɤ
+donjihade	t u n tɕ i x ɤ t ɤ
+donjime	t u n tɕ i m ɤ
+donjirede	t u n tɕ i ɾ ɤ t ɤ
+dorgide	t ɔ ɾ k i t ɤ
+dorio	t o ɾ o
+dosi	t ɔ z ɔ
+dosibume	t o z ɤ p u m
+dosifi	t o s ɤ p i e
+dosika	t ɔ s o k a
+dosiki	t ɔ z ɔ kʰ i
+dosime	t ɔ z ɤ m
+dosirakv	t ɔ ʐ ɤ ɾ ɢ ɯ
+duibuleci	t u e p ɤ l ɤ tɕʰ i
+duici	t u e tɕʰ i
+duin	t u n
+dulefi	t u l u e
+duleke	t u l ɤ kʰ ɤ
+duleme	t u l u m
+dulimbai	t u i l i m p æ
+dulin	t y l i n
+dursun	t u ɾ s u n
+durugan	t u ɾ u tɕʰ ɤ n
+durun	t u ɾ u n
+ebihe	e p i ʁ ɤ
+ebiheo	e p i ʁ n o
+ecike	ɤ ʂ kʰ ɤ
+edun	ɔ t u n
+efime	e v i n a
+efinjiki	e f i n tɕ i kʰ i
+eici	e tɕʰ i
+ejetulere	ɤ ʐ tʰ u l ɤ ɾ ɤ
+ekcireme	tɕʰ i kʰ ɾ ɤ n
+ekxembi	ɤ kʰ ʂ ɤ m i e
+ekxembio	ɤ k ʂ ɤ m n o
+ekxeme	ɤ kʰ ʂ ɤ m
+ekxerakv	ɤ k ʂ ɤ ɾ ɢ ɯ
+ekxere	ɤ kʰ ʂ ɤ ɾ ɤ
+eldengge	ɤ ʂ t ɤ n ŋ ɤ
+ele	ɤ l ɤ
+elefi	ɤ l ɤ v e
+elekei	ɤ l ɤ kʰ i
+eleme	ɤ l ɤ m
+elhenken	e l k i kʰ n i e
+elu	o l u
+embici	ɤ m p i tɕʰ i
+ememu	ɤ m ɤ m ɤ
+emgeri	ɤ m k ɤ ɾ ɤ
+emgi	ɤ m k i
+emke	ɤ m kʰ ɤ
+emnggi	ɤ m a ŋ
+emu	ɤ m u
+enduri	v ɤ n t u ɾ
+enenggi	e n i ŋ
+eniye	ɤ n i e
+erde	ɤ ɾ t ɤ
+erdeken	ɤ ʂ t ɤ kʰ ɤ
+ere	ɤ ɾ ɤ
+ereci	ɤ ɾ ɤ tɕʰ i
+erehei	ɤ ɾ x e
+erei-gese	ɤ z ɤ
+erembi	ɤ ɾ ɤ m i e
+ergi	ɤ ɾ k i
+ergide	e ɾ k i t ɤ
+erin	e ɾ i n
+erinde	e ɾ i n t ɤ
+esi	ɤ ʂ
+etuci	u tʰ u tɕʰ i
+etuki	u tʰ u kʰ i
+etuku	u t k u
+etuku	u tʰ u kʰ u
+eyehengge	e j e ʁ n iŋ ŋ ɤ
+eyeheo	e j e ʁ n o
+fa	f a
+fakvri	f a kʰ u ɾ
+farhvn	f ɔ ɾ ʁ u n
+fatan	f a t ɤ n
+fayabuha	f æ ʁ p u ʁ ɤ
+fehenyge	pʰ i e x n iŋ ŋ ɤ
+feise	pʰ i z a
+fejergi	f e tɕʰ i
+feksici	f ɤ k ʂ ɤ tɕʰ i
+feksimbi	f o kʰ ʂ ɤ m i e
+feksime	f ɤ k ʂ ɤ m
+feye	f e j i n
+feyelebuhe	f e j e l ɤ p u ʁ ɤ
+fiyan	f i j a n
+fodoho	ʈʂʰ ɔ t o x o
+foholon	f ɔ ʁ o tɕʰ u n
+fon	f ɤ n
+fonde	f ɤ n t ɤ
+fonjici	f ɤ tɕ i tɕʰ i
+fonjiki	f o n tɕ i kʰ i
+fonjimbi	f ɤ n tɕ i m i e
+fonjin	f o n tɕ i n
+forgon	f ɔ ɾ k u n
+fulgiyan	f e l j a n
+fulgiyan	f ɤ l k j a n
+fulgiyeci	f u l k i tɕʰ i
+fun	f u n
+funceme	f u n tɕʰ i m
+funcere	f u n tɕʰ i ɾ ɤ
+funde	f u n t ɤ
+fungku	f u n kʰ u
+furuki	f u ɾ u kʰ i
+gaifi	k æ p e
+gaiha	k e k ɤ
+gaime	k a i m
+gaisu	k a ʐ ɯ
+gaitai	k æ tʰ i
+gajifi	k a ʐ ɤ
+gajiki	k a ʐ kʰ i
+gajime	k a tɕ i m
+gaju	k a ʐ u
+gala	k a l a
+galai	k a l ɤ
+galaka	k a l ɤ k ɤ
+gamaki	k a m ɤ kʰ i e
+gargan	k a ɾ k a n
+gaxan	k a ʂ a n
+gelecuke	k ɤ l ɤ ʈʂʰ u kʰ ɤ
+geli	k ɤ l ɤ
+gemu	k ɤ m u
+gene	k ɤ n ɤ
+genefi	k ɤ n ɤ p i e
+genehe	k ɤ n ɤ x ɤ
+geneki	k ɤ n ɤ kʰ i
+genembi	k ɤ n ɤ m
+genembio	k ɤ n ɤ m n o
+geren	k ɤ ɾ ɤ n
+getebuki	k ɤ tʰ p u kʰ i
+gidaki	k i t a kʰ i
+gincihiyan	k i n tɕʰ i k i n
+gingguleme	k iŋ ŋ ɤ l ɤ m
+ginggulere	k iŋ ŋ ɤ l ɤ ɾ
+gio	k i ɔ
+gisun	k i z u n
+gisure	k i z ɤ ɾ ɤ
+gisureki	k i s ɤ ɾ ɤ kʰ i
+gisurembi	k i s ɤ ɾ ɤ m i e
+gisureme	k i z ɤ ɾ u m
+gisurerengge	k i z ɤ ɾ u n ŋ ɤ
+giyamun	k i j a m ɤ n
+giyan	k i y a n
+giyangnambi	k i j aŋ n ɤ m i e
+giyangname	k i j aŋ n ɤ m
+gociki	kʰ u tɕʰ i kʰ i
+gocimbi	kʰ u tɕʰ i m i e
+gocimbio	kʰ u tɕʰ i m n o
+goidaha	k u æ t ɤ ʁ ɤ
+goidahao	tɕʰ u æ t ɤ ʁ a
+goidame	k u a i t ɤ tɕʰ ɤ
+goiha	k u æ x
+golmin	k ɔ l m i n
+goro	k o ɾ o
+gubci	k u p tɕʰ i
+gucu	k u ʈʂʰ u
+gurime	k u ɾ i m
+guwan	k u v a n
+guwejihe	k u tɕ i ʁ ɤ
+gvnin	k u n i n
+gvnirakv	k u n i ɢ ɯ
+gvsin	k ɔ ɾ u n
+hacin	x æ tɕʰ i n
+hadufun	x a t u ɤ n
+hailan	x a i l i n
+haksaha	x a kʰ s a ʁ ɤ
+hala	x a l a
+halangga	x a l a n iŋ
+halhvn	x a l x u n
+halman	x a l m ɤ n
+halukan	x a l u k u
+hamime	x a m i m
+hanciki	x a tɕʰ i a kʰ
+handu	x a n
+hangse	x aŋ s
+harbin	x a ɾ p i n
+haxa	x a ʂ
+hebexere	x ɤ p ɤ ʂ ɤ ɾ
+hengke	x ɤ n kʰ ɤ
+holboho	x o l p o ʁ ɤ
+holbombi	x o l p o m i e
+hontoho	x u n t o x ɤ
+hoton	x o tʰ o n
+hvdai	x u t a
+hvdun	x u t u n
+hvlame	x u l a m ɤ
+hvntahan	x u n tʰ x a n
+hvsihan	x u ʂ ʁ a n
+hvsun	x u s u n
+hvturi	x u tʰ u ɾ u
+hvwa	x u v a
+hvwanggiyarakv	x u v aŋ tɕ i ɾ ɤ ɢ ɯ
+i	n i e
+ice	i tɕʰ i
+icihiyame	i tɕʰ i ʁ ɤ m
+ihaci	i ʁ ɤ tɕʰ i
+ilaka	i l a k a
+ilan	i l a n
+iletulere	i l ɤ tʰ u l ɤ ɾ
+ilha	i l tɕʰ a
+ili	i l i e
+ilibuhangge	i l i p u ʁ n iŋ ŋ ɤ
+iliburengge	i l i ʂ n iŋ ŋ ɤ
+iliha	i l i ʁ ɤ
+ilihabi	i l i ʁ a p i
+ilihangge	i l i n iŋ ɤ
+iliki	i l i kʰ i
+ilimbi	i l i m i e
+ilindarakv	i l i n t a ɾ a ɢ ɯ
+ilirakv	i l i ɾ ɢ ɯ
+ilire	i l i ɾ
+imbe	i m p ɤ
+inenggi	i n iŋ
+inenggi-dulin	i n iŋ t ɤ l ɤ
+inenggidari	i n iŋ t ɤ ɾ i e
+ini	i n
+inu	i n ɤ
+ishun	i s x u n
+ishunde	i k u n t ɤ
+isibuki	i ʂ p u kʰ i
+isibumbi	i ɾ ʂ p u m i e
+isinaha	i ɾ ʂ n a tɕʰ ɤ
+isinjimbi	i ɾ ʂ tɕ i m i e
+jaci	ʐ a k ɤ
+jafambi	ʐ a v o m i e
+jai	ʐ a i
+jaici	ʐ a i tɕʰ i
+jaka	ʐ a kʰ i
+jakdan	ʐ a k t a n
+jakvci	ʐ a kʰ u n
+jalan	ʐ a l a n
+jalin	tɕ i e l i n
+jefu	ʐ ɤ v o
+jekebi	ʐ ɤ kʰ p i
+jekeo	ʐ ɤ kʰ n o
+jeki	ʐ ɤ v o
+jembi	ʐ ɤ m
+jeme	ʐ ɤ m ɤ
+jergi	ʐ ɤ ɾ k i
+jeterakv	ʐ ɤ ʂ ɤ ɢ ɯ
+jibehun	ʐ u p u ʁ ɤ
+jicina	tɕ i tɕʰ i n
+jiderakv	tɕ i t ɤ ɾ ɤ ɢ ɯ
+jidere	tɕ i t ɤ ɾ e
+jihe	tɕ i ʁ
+jihengge	tɕ i x ɤ n iŋ ŋ ɤ
+jilgan	tɕ i l k a
+jimbi	tɕ i m i e
+jimbio	tɕ i m n o
+jio	ʐ u o
+jobobuho	ʐ ɔ p ɤ p u ʁ ɤ
+joo	ʐ ɔ
+juben	ʐ u p ɤ
+juhe	ʐ u ʁ ɤ
+jui	tɕ i e
+juken	ʐ u kʰ ɤ n
+julgeci	ʐ u l k i e
+jungken	ʐ u n kʰ ɤ n
+jurambi	ʐ u ɾ a m i e
+juru	ʐ u ɾ u
+juwan	ʐ u a n
+juwanci	ʐ u a n tɕʰ i
+juwari	ʐ u æ ɾ i
+juwe	ʐ u v ɤ
+juwen	ʐ u v ɤ n
+kangkaha	kʰ aŋ kʰ ɤ tɕʰ ɤ
+kangkara	kʰ aŋ kʰ ɤ ɾ ɤ
+kantunjame	kʰ a tʰ u n tɕ e m
+katun	k a t ɤ n
+kejine	kʰ ɤ tɕ i n ɤ
+kemuni	kʰ ɤ m u n i
+komso	kʰ o m z o
+kooli	kʰ ɔ tʃ
+kubun	kʰ u p u n
+labdu	l ɔ t ɔ
+labdukan	l ɔ t ɔ kʰ ɤ n
+lamun	l a m ɤ n
+langse	l aŋ z ɤ
+layame	l a j e m
+mafa	m a f ɤ
+mahala	m a ʁ ɤ l a
+majige	m æ tɕ i k
+mama	m a m u
+manda	m a n t a
+manggi	m aŋ
+manju	m a n ʐ u
+marimbi	m æ ɾ i m i e
+mejige	m e tɕ i k ɤ
+meni	m ɤ n
+micihiyan	m i tɕʰ i a ʁ ɤ
+minbe	m i n p ɤ
+minggan	m iŋ ŋ a n
+mini	m i n
+miningge	m i n iŋ
+moo	m u
+moro	m o ɾ
+mujangga	m u ʐ aŋ
+mujanggo	m u ʐ aŋ ŋ ɤ n o
+mujilen	m u tɕ i l ɤ n
+muke	m u kʰ ɤ
+muru	m u ɾ u
+muse	m ɤ t͡s ɤ
+mutembi	m u tʰ ɤ m i e
+mutembio	m u tʰ ɤ m n o
+muten	m u tʰ ɤ n
+muterakv	m u tʰ ɤ ɾ ɢ ɯ
+na	n a
+nadan	n a t a n
+nadanju	n a t a n ʐ u
+nakaci	n a kʰ tɕʰ i
+nakcu	n a ɢ ʈʂʰ u
+nasan	n a s a n
+neime	n e m
+nekcu	n ɤ ɢ ʈʂʰ u
+neneme	n ɤ n ɤ m ɤ
+ni	n e
+ni	n i e
+nikan	n i a kʰ a n
+nimanggi	n i m iŋ
+nimaraha	n i m a ɾ ɤ ʁ ɤ
+nimarambi	n i m a ɾ ɤ m i e
+nimeku	n i m kʰ u
+nimembi	n i m i m i e
+nimeme	n i m iŋ
+nimenbi	n i m i m i e
+ningguci	n iŋ k u tɕʰ i
+ninggude	n iŋ k u t ɤ
+ninju	n i n ʐ u
+nio	n o
+niohe	n i o x u
+niowanggiyan	n iŋ ŋ ɤ j a n
+niyalma	n i a m a
+niyangnarakv	k i j aŋ n ɤ ɾ u
+niyengniyeri	n iŋ n i e ɾ i
+non	n o n
+nurhaci	n u ɾ k a tɕʰ i
+o	o
+oboci	o p ɤ tɕʰ i
+obofi	o v o
+obombi	o p u m i e
+obome	o p o m
+obu	ɔ v u
+obufi	o p i e
+obumbi	o p u m i e
+ocibe	o tɕʰ i p ɤ
+ofi	o p i e
+oho	ɔ ʁ ɤ
+ohobi	o ʁ ɤ p i
+oilode	o i t ɤ
+ojorakv	o ʐ u ɾ ɢ ɯ
+ojoro	o ʐ o ɾ
+okdombi	o kʰ t o m i e
+oki	o tɕʰ i
+okto	ɔ kʰ tʰ o
+olhoho	o l k u ʁ
+ombi	ɔ m i e
+ombini	o m i n e
+ome	o m
+omicina	ɔ m i tɕʰ i n a
+omiha	ɔ m i ʁ
+omihangge	ɔ m i ʁ n iŋ ɤ
+omiki	o m u k i
+omimbi	o m u m i e
+omime	o m e m
+omirakv	o m u ɢ ɯ
+oncokon	o n tʃ u kʰ o n
+onggolo	o n ŋ o l o
+oori	ɔ ɾ o
+orho	o ɾ tɕʰ o
+orin	o ɾ i n
+puseli	p u z e l
+sabu	s a p u
+sabubumbi	s a v u p u m
+sabuha	s a v u ɣ ɤ
+sabume	s a v ɤ m ɤ
+saburakv	s a v u ʁ a ɢ ɯ
+sacibuha	s a tɕʰ i p u ʁ ɤ
+saha	s a k ɤ
+sahaliyan	s a x a l j a n
+saikan	s æ kʰ a n
+sain	s a n
+saiyvn	s a n o
+saka	s a kʰ
+sakda	s a k t ɤ
+sargan	s a ɾ k a n
+sarkv	s a ɾ ɢ ɯ
+sasa	s a z e
+se	s ɤ
+sefu	s ɤ v ɤ
+sehede	s ɤ x t ɤ
+sejen	s ɤ ʐ ɤ n
+sekteki	s ɤ kʰ tʰ ɤ kʰ i
+sembi	ɤ m u
+sembio	k ɤ m u n o
+senggi	s ɤŋ ŋ ɤ
+ser	s ɤ ɾ
+sere	s ɤ ɾ ɤ
+serebumbi	s ɤ ɾ p u m i e
+serguwen	s ɤ ɾ k u n
+si	ç i
+sibkimbi	x i p k i m
+sikse	s i k z ɤ
+siltan	x i l tʰ a n
+simbe	ç i n p ɤ
+sindaha	ʂ ɤ n t a x
+sindaki	ʂ ɤ n t a kʰ i
+sindaki	ʂ ɤ n t a kʰ i
+sindame	ʂ ɤ n t a m
+sindarabuki	ʂ ɤ n t a ɾ ɤ p u kʰ i
+sinde	ç i n t ɤ
+sini	ç i n ɤ
+sirame	ç i ɾ a m
+sitara	ç i tʰ a ɾ a
+soktoho	s o kʰ tʰ o ʁ ɤ
+somo	s u o m ɤ n
+sorome	s o ɾ u m
+subumbi	s u p u m
+sukdun	s u kʰ t u n
+suki	s u kʰ i e
+sulfa	s u l a f ɤ
+sulfakan	s u l a x o
+sunja	s u n ʐ a
+susai	s u s æ
+suwayan	s u a y a n
+suwe	s u a n
+suweni	s u n
+taci	tʰ æ tɕʰ i
+tacibumbi	tʰ æ tɕʰ i p u m
+tacikv	tʰ æ tɕʰ i kʰ u
+tacimbi	tʰ æ tɕʰ i m i
+tacimbio	tʰ æ tɕʰ i m n o
+tacime	tʰ æ tɕʰ i m
+tacin	tʰ æ tɕʰ i n
+takafi	tʰ a kʰ ɤ p e
+takambio	tʰ a kʰ ɤ m n o
+tana	tʰ a n a
+tanggv	tʰ aŋ ŋ u
+tantaki	tʰ a n tʰ a kʰ i
+tarici	tʰ æ ɾ i tɕʰ i
+tarie	tʰ æ ɾ i e
+tatabuha	tʰ a tʰ p u ʁ ɤ
+te	tʰ ɤ
+tebuhengge	tʰ o n iŋ ŋ ɤ
+tebuki	t ɤ p u kʰ i
+tebume	tʰ ɔ m
+tehebi	tʰ i e x p i
+tehembi	tʰ i e m i e
+teike	tʰ e k
+teiki	tʰ i kʰ ɤ
+teile	tʰ e l e
+teile	t i e l i e
+teki	tʰ i e
+teni	tʰ i n i e
+tenteke	tʰ ɤ z ɤ
+terakv	tʰ i ɾ ɤ ɢ ɯ
+tere	tʰ ɤ ɾ ɤ
+terei	t ɤ ɾ ɤ
+tereningge	tʰ ɤ ɾ ɤ n iŋ
+tese	tʰ ɤ z ɤ
+tesu	tʰ ɤ ɾ ɤ
+tofohon	tʰ o f o x u n
+tohon	tʰ ɔ x u n
+tubade	tʰ ɤ p ɤ t ɤ
+tubihe	tʰ u e p i x
+tucike	tʰ u e tɕʰ i k ɤ
+tucinjifi	tɕʰ i x i n tɕ i f i
+tugi	tʰ u e k i
+tuheke	tʰ u n a k ɤ
+tuheme	tʰ u n a m
+tulergi	tʰ u l ɤ k i
+tulergi	tʰ u l ɤ k i
+tulhun	tʰ u l u ʁ u n
+tumin	t y m i n
+tursun	t u ɾ s u n
+tusa	tʰ u ʐ a
+tutala	tʰ u tʰ a l ɤ
+tutala	tʰ u tʰ a l ɤ
+tuttu	tʰ ɤ z ɤ
+tuttu-oci	tʰ ɤ z ɤ tɕʰ i
+tuwa	tʰ a
+tuwaci	tʰ a tɕʰ i
+tuwai	tʰ u a
+tuwakiyaci	tʰ æ tɕ i tɕʰ i
+tuwambi	t a m i e
+tuwame	tʰ a m
+tuwaname	tʰ a n a m
+tuwanjici	tʰ a m tɕ i tɕʰ i
+tuwanjihe	tʰ a m tɕ i ʁ ɤ
+tuwanjihegge	tʰ a v a n tɕ i x n iŋ ŋ ɤ
+tuwanjimbi	t a m tɕ i m i
+tuwara	tʰ a ɾ
+tuwarade	tʰ a ɾ t ɤ
+tuweri	tʰ u e ɾ i
+ubaci	ɤ v ɤ tɕʰ i
+ubade	ɤ v u t ɤ
+ucuri	u tɕʰ i ɾ
+udacina	u t a tɕʰ i n a
+udafi	u t a f
+udaki	u t a kʰ i
+udambi	u t a m i e
+udambi	u t a m i e
+udame	u t a m
+udara	u t a ɾ a
+udu	u t u
+ududu	u t u
+ufime	i v i m
+uhure	u ʁ u ɾ ɤ
+ujiki	u tɕ i kʰ i
+uju	u ʐ u
+uksura	u k s u ɾ ɤ
+ula	u l ɤ
+ulanduha	u l a n t u ʁ ɤ
+ulhimbi	u l k i m i
+ulhimbio	u l k i m n o
+ulme	u l m ɤ
+ume	ɤ m
+umesi	ɤ m ɤ ʂ
+umhan	u m a n
+umpu	u m pʰ u
+unde	u n t e
+urgulembi	u ɾ k u l ɤ m i
+urgun	u ɾ k u n
+urgunjembi	u ɾ k u n tɕʰ i m i e
+urse	u ɾ s ɤ
+urunakv	u ɾ u n a ɢ ɯ
+use	u z
+usin	u ɾ u n
+uthai	u t ʁ a
+uttu	ɤ z ɤ
+uyan	u j a n
+uyuci	u j y n
+wajibuki	v a ʐ p u kʰ i
+wajiha	v a tɕ i tɕʰ a
+wajihabi	v a ʐ ʁ ɤ p i
+wajihao	v a tɕ i tɕʰ ɤ
+wajikini	v a ʐ ɤ kʰ i n
+wajime	v a tɕ ɤ m ɤ
+waka	v a kʰ a
+wakao	v a kʰ n o
+walgiyaha	v æ l tɕ i tɕʰ ɤ
+walgiyame	v æ l tɕ i m
+wangga	v aŋ ŋ ɤ
+wargi	v æ ɾ k i
+we	v ɤ
+wecembi	v ɤ tʃ ɤ m i e
+wecere	v ɤ tʃ ɤ ɾ
+weilembi	v e i l i m i e
+weilen	v e i l i
+weilenambi	v e i l i n a m i e
+weme	v ɤ m
+weningge	v ɤ n iŋ ɤ
+wenjeme	v ɤ n tɕ i m
+wenjerengge	v ɤ n tɕ i x n iŋ ŋ ɤ
+wereme	v ɤ ɾ ɤ m
+weri	v e ɾ
+weriningge	v e ɾ i n iŋ
+werirakv	v e ɾ u ɢ ɯ
+wesihulembi	v ɤ ʂ x u l ɤ m i e
+wesihun	v ɤ ʂ k u n
+xabi	s æ v e i
+xaburame	s a p u ɾ m ɤ
+xahvrakabi	s a x u ɾ kʰ ɤ p i
+xahvrun	ʂ a x u ɾ u n
+xanyan	x aŋ y a n
+xolo	ʂ o l o
+xumin	ʂ u m i n
+xun	ʂ u n
+xurdeme	ʂ u ɾ t ɤ m ɤ
+xuxu	ʂ u ʂ u
+ya	j a
+yabade	j a v ɤ t ɤ
+yabale	j a v ɤ t ɤ
+yabucina	j ɔ p ɤ tɕʰ i n a
+yabuki	j ɔ p ɤ tɕʰ i
+yabumbio	j a v u m n o
+yabume	j a v u m
+yadahvxaha	j a t u ɾ u tɕʰ ɤ
+yadahvxame	j a t u ɾ u m
+yadahvxarakv	j a t u ɾ u ɢ ɯ
+yaksi	j a k ʂ
+yali	j e l i
+yamji	j e m tɕ i
+yamjiha	j e m tɕ i
+yamjishvn	j i m tɕ i k u n
+yamun	j a m u n
+yanduki	j a n t u kʰ i
+yargiyan	j a ɾ k i j a n
+yargiyan	j a ɾ k i j a n
+yasa	j a s
+yasai	j a s
+yaya	a i
+yebe	j e p ɤ
+yome	j ɔ m
+yooho	j ɔ ʁ ɤ
+yoombi	j ɔ m i e

@@ -1,0 +1,406 @@
+<eps>	sil
+<unk>	spn
+[bracketed]	spn
+[laughter]	spn
+yi 	i
+ding 	t ɪŋ
+kao 	kʰ ɑ ʊ
+qi 	tɕʰ i
+shang 	ʂ ɑŋ
+xia 	ɕ j a
+wan 	w a n
+zhang 	ʈʂ ɑŋ
+san 	s a n
+ji 	tɕ i
+bu 	p u
+yu 	y
+mian 	m j ɛ n
+gai 	k a ɪ
+chou 	ʈʂʰ o ʊ
+zhuan 	ʈʂ w a n
+qie 	tɕʰ j ɛ
+pi 	pʰ i
+shi 	ʂ ɚ
+qiu 	tɕʰ j o ʊ
+bing 	p ɪŋ
+ye 	j ɛ
+cong 	tsʰ ʊŋ
+dong 	t ʊŋ
+si 	s ɯ
+cheng 	ʈʂʰ ɤŋ
+liang 	l j ɑŋ
+diu 	t j o ʊ
+you 	j o ʊ
+yan 	j ɛ n
+sang 	s ɑŋ
+gun 	k u ə n
+jiu 	tɕ j o ʊ
+ge 	k ɤ
+ya 	j a
+qiang 	tɕʰ j ɑŋ
+zhong 	ʈʂ ʊŋ
+jie 	tɕ j ɛ
+feng 	f ɤŋ
+guan 	k w a n
+chuan 	ʈʂʰ w a n
+chan 	ʈʂʰ a n
+lin 	l ɪ n
+zhuo 	ʈʂ u ɔ
+zhu 	ʈʂ u
+dan 	t a n
+wei 	w e ɪ
+jing 	tɕ ɪŋ
+li 	l i
+ju 	tɕ y
+pie 	pʰ j ɛ
+fu 	f u
+nai 	n a ɪ
+tuo 	ʈʂ ɤ
+me 	j ɑ ʊ
+zhi 	ʈʂ ɚ
+wu 	u
+zha 	ʈʂ a
+hu 	x u
+fa 	f a
+le 	l ɤ
+yin 	ʈʂ ʊŋ
+ping 	pʰ ɪŋ
+pang 	pʰ ɑŋ
+qiao 	tɕʰ j ɑ ʊ
+guai 	k u a ɪ
+mie 	m j ɛ
+xi 	ɕ i
+xiang 	ɕ j ɑŋ
+shu 	ʂ u
+nang 	n ɑŋ
+jia 	tɕ j a
+mai 	m a ɪ
+luan 	l w a n
+ru 	ʐ u
+xue 	ɕ ɥ œ
+sha 	ʂ a
+na 	n a
+gan 	k a n
+qian 	k a n
+gui 	k w e ɪ
+jue 	tɕ ɥ œ
+zheng 	ʈʂ ɤŋ
+er 	a ɻ
+chu 	ʈʂʰ u
+kui 	y
+yun 	y n
+sui 	s w e ɪ
+gen 	k ə n
+xie 	ɕ j ɛ
+tou 	tʰ o ʊ
+wang 	w ɑŋ
+kang 	kʰ ɑŋ
+da 	tʰ a
+jiao 	tɕ j ɑ ʊ
+hai 	x a ɪ
+heng 	x ɤŋ
+mu 	m u
+ting 	tʰ ɪŋ
+qin 	tɕʰ ɪ n
+bo 	p ɔ
+lian 	l j ɛ n
+duo 	t u ɔ
+ren 	ʐ ə n
+shen 	ʂ ɚ
+ze 	t s ɤ
+jin 	tɕ ɪ n
+pu 	pʰ u
+ba 	p a
+reng 	ʐ ɤŋ
+fo 	f ɔ
+lun 	l u ə n
+cang 	tsʰ ɑŋ
+zai 	t s ɯ
+ta 	tʰ a
+xian 	ɕ j ɛ n
+hong 	x ʊŋ
+tong 	tʰ ʊŋ
+dai 	t a ɪ
+ling 	l ɪŋ
+chao 	ʈʂʰ ɑ ʊ
+chang 	ʈʂʰ ɑŋ
+sa 	s a
+men 	m ə n
+fan 	tɕ j a
+yang 	j ɑŋ
+wo 	w a n
+jian 	tɕ j ɛ n
+yao 	j ɑ ʊ
+fen 	f ə n
+di 	t i
+fang 	f ɑŋ
+pei 	pʰ e ɪ
+diao 	t j ɑ ʊ
+dun 	t u ə n
+xin 	ɕ ɪ n
+ai 	a ɪ
+xiu 	ɕ j o ʊ
+tang 	tʰ ɑŋ
+huo 	x u ɔ
+hui 	x w e ɪ
+cui 	tsʰ w e ɪ
+che 	ʈʂʰ ɤ
+xun 	ɕ y n
+nu 	n u
+gu 	k u
+ni 	n i
+ban 	p a n
+xu 	ɕ y
+zhou 	ʈʂ o ʊ
+qu 	tɕʰ y
+ci 	s ɯ
+beng 	p ɤŋ
+ga 	tɕʰ j ɛ
+dian 	t j ɛ n
+han 	x a n
+bi 	p i
+zhao 	ʂ ɑ ʊ
+zuo 	t s u ɔ
+ti 	tʰ i
+he 	x ɤ
+she 	ʂ ɤ
+gou 	kʰ o ʊ
+ning 	n ɪŋ
+yong 	j ʊŋ
+wa 	w a
+ka 	kʰ a
+lao 	l ɑ ʊ
+bai 	p a ɪ
+ming 	m ɪŋ
+hen 	x ə n
+quan 	tɕʰ ɥ œ n
+tiao 	tʰ j ɑ ʊ
+xing 	ɕ ɪŋ
+kan 	kʰ a n
+chi 	ʈʂʰ ɚ
+kua 	kʰ w a
+guang 	k w ɑŋ
+mi 	m i
+an 	a n
+lu 	l u
+mou 	m o ʊ
+cha 	ʈʂʰ a
+gong 	k ʊŋ
+cun 	tɕ j ɛ n
+lv 	l y
+zhen 	ʈʂ ə n
+ce 	tsʰ ɤ
+kuai 	kʰ u a ɪ
+chai 	ʈʂʰ a ɪ
+nong 	n ʊŋ
+hou 	x o ʊ
+jiong 	tɕ j ʊŋ
+tui 	tʰ u ɔ
+nan 	n a n
+xiao 	x ɑ ʊ
+bian 	p j ɛ n
+cu 	tsʰ u
+e 	ɤ
+ku 	kʰ u
+jun 	tɕ y n
+zu 	t s u
+hun 	x u ə n
+su 	s u
+bao 	p ɑ ʊ
+lia 	l j a
+lai 	l a ɪ
+pai 	pʰ a ɪ
+biao 	p j ɑ ʊ
+fei 	f e ɪ
+bei 	p e ɪ
+zong 	t s ʊŋ
+tian 	tʰ j ɛ n
+dao 	t ɑ ʊ
+tan 	tʰ a n
+chui 	ʈʂʰ w e ɪ
+peng 	pʰ ɤŋ
+kong 	kʰ ʊŋ
+juan 	tɕ ɥ œ n
+luo 	l u ɔ
+song 	s ʊŋ
+leng 	l ɤŋ
+zi 	t s ɯ
+ben 	p ə n
+cai 	tsʰ a ɪ
+zhai 	ʈʂ a ɪ
+qing 	tɕʰ ɪŋ
+ying 	ɪŋ
+ruan 	n w a n
+chun 	ʈʂʰ u ə n
+ruo 	ʐ u ɔ
+pian 	pʰ j ɛ n
+sheng 	ʂ ɤŋ
+huang 	x w ɑŋ
+zhan 	ʈʂ a n
+duan 	t w a n
+ou 	o ʊ
+za 	t s a
+lou 	l y
+sou 	s o ʊ
+yuan 	ɥ œ n
+rong 	ʐ ʊŋ
+jiang 	k o ʊ
+ma 	m a
+bang 	p ɑŋ
+hao 	x ɑ ʊ
+shan 	ʂ a n
+suo 	s u ɔ
+bin 	p ɪ n
+nuo 	n u ɔ
+can 	tsʰ a n
+lei 	l e ɪ
+zao 	t s ɑ ʊ
+ao 	ɑ ʊ
+chuang 	tɕʰ j ɑŋ
+piao 	pʰ j ɑ ʊ
+man 	m a n
+zun 	t s u ə n
+liao 	l j ɑ ʊ
+tie 	tɕ j ɛ n
+seng 	s ɤŋ
+min 	m ɪ n
+sai 	s a ɪ
+dang 	t ɑŋ
+xuan 	ɕ ɥ œ n
+tai 	tʰ a ɪ
+lan 	l a n
+meng 	m ɤŋ
+qiong 	tɕʰ j ʊŋ
+lie 	l j ɛ
+kuang 	kʰ w ɑŋ
+zan 	t s a n
+chen 	ʈʂʰ ə n
+teng 	tʰ ɤŋ
+long 	l ʊŋ
+rang 	ʐ ɑŋ
+xiong 	ɕ j ʊŋ
+chong 	ʈʂʰ ʊŋ
+dui 	t w e ɪ
+ke 	kʰ ɤ
+tu 	tʰ u
+dou 	t o ʊ
+mao 	m ɑ ʊ
+liu 	l j o ʊ
+shou 	ʂ o ʊ
+ran 	ʐ a n
+nei 	n e ɪ
+gang 	k ɑŋ
+gua 	k w a
+kou 	kʰ o ʊ
+pan 	pʰ a n
+qia 	ɕ j a
+mei 	m e ɪ
+zhun 	ʈʂ u ə n
+cou 	tsʰ o ʊ
+du 	t u
+kai 	kʰ a ɪ
+deng 	t ɤŋ
+wen 	u ə n
+hua 	x w a
+yue 	ɥ œ
+pao 	p ɑ ʊ
+bie 	p j ɛ
+geng 	k ə n
+shua 	ʂ w a
+cuo 	tsʰ u ɔ
+la 	l a
+pou 	pʰ o ʊ
+tuan 	tʰ w a n
+mo 	m ɔ
+keng 	kʰ ɤŋ
+shao 	ʂ ɑ ʊ
+gao 	x ɑ ʊ
+lang 	l ɑŋ
+weng 	ʊŋ
+tao 	tʰ ɑ ʊ
+nao 	n ɑ ʊ
+zang 	t s ɑŋ
+suan 	s w a n
+nian 	n j ɛ n
+shuai 	ʂ u a ɪ
+ang 	ɑŋ
+que 	tɕʰ ɥ œ
+zhe 	ʈʂ ɤ
+zui 	t s w e ɪ
+rou 	tɕʰ j o ʊ
+shuang 	ʂ w ɑŋ
+die 	t j ɛ
+rui 	ʐ w e ɪ
+po 	pʰ ɔ
+mang 	m ɑŋ
+tun 	tʰ u ə n
+fou 	f o ʊ
+shun 	ʂ u ə n
+guo 	kʰ u a ɪ
+pen 	pʰ ə n
+ne 	n ɤ
+huai 	x u a ɪ
+pin 	pʰ ɪ n
+ha 	x a
+yo 	j ɔ
+o 	ɤ
+shuo 	ʂ u ɔ
+huan 	x w a n
+nou 	n o ʊ
+ken 	kʰ ə n
+a 	a
+chuai 	ʈʂʰ u ɔ
+pa 	pʰ a
+se 	s ɤ
+nie 	n j ɛ
+wai 	u a ɪ
+miao 	m j ɑ ʊ
+cao 	tsʰ ɑ ʊ
+de 	t ɤ
+hei 	x e ɪ
+ceng 	ʈʂʰ ɤŋ
+hm 	ɕ ɪ n
+ca 	tsʰ a
+chuo 	ʈʂʰ u ɔ
+nin 	n ɪ n
+kun 	kʰ u ə n
+qun 	tɕʰ y n
+ri 	ʐ ɚ
+lve 	l ɥ œ
+zhui 	ʈʂ w e ɪ
+sao 	s ɑ ʊ
+zeng 	t s ɤŋ
+zhuang 	ʈʂ w ɑŋ
+hang 	x ɑŋ
+en 	ə n
+zou 	t s o ʊ
+nv 	n y
+nuan 	n a n
+niu 	n j o ʊ
+rao 	ʐ ɑ ʊ
+niang 	n j ɑŋ
+niao 	n j ɑ ʊ
+nen 	n ə n
+sun 	s u ə n
+kuan 	kʰ w a n
+cen 	tsʰ ə n
+cuan 	tsʰ w a n
+shui 	ʂ w e ɪ
+kuo 	kʰ u ɔ
+te 	tʰ ɤ
+zen 	t s ə n
+re 	ʐ ɤ
+zei 	t s e ɪ
+den 	tʰ u ɔ
+zhua 	ʈʂ w a
+shuan 	ʂ w a n
+zhuai 	j ɛ
+rua 	n u ɔ
+zuan 	t s w a n
+shai 	ʂ a ɪ
+sen 	s ə n
+run 	ʐ u ə n
+chua 	ɕ y
+nve 	n ɥ œ
+gei 	k e ɪ
+neng 	n ɤŋ
